@@ -4,9 +4,8 @@ Introduction
 ============
 
 
-    universalSimulator is a tool that can make your Stub Server development more efficiently.Through a simple configuration, you can
-generate a Stub Server conveniently.
-    The universalSimulator can simulate servers which use socket (tcp or udp) as the communicationmode. And use protobuffer as the protocol mode.
+    1. universalSimulator is a tool that can make your Stub Server development more efficiently.Through a simple configuration, you cangenerate a Stub Server conveniently.
+    2. The universalSimulator can simulate servers which use socket (tcp or udp) as the communicationmode. And use protobuffer as the protocol mode.
 
 
 Installation
