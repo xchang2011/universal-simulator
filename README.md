@@ -23,9 +23,6 @@ Test
 ===========
 
 You can start a udp server with commands like this:
-
 python stub.py -c udp -s server
-
 You can start a udp client to send data to the server before with commands like this:
-
 python stub.py -c udp -s client
